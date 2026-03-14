@@ -27,20 +27,6 @@ Traditional queue management strategies like **First-Come-First-Serve (FCFS)** a
 - 🔄 **Simulates** hospital queue dynamics using discrete-event simulation
 - 🤖 **Optimizes** doctor scheduling dynamically using AI-based algorithms
 
-> **Projexa Team ID:** 26E2075 | **Team Name:** Echo Engineers
-
----
-
-## 👥 Team Members
-
-| Name | Enrollment No. |
-|------|----------------|
-| Ashish Singh | 2401730145 |
-| Vikash Kumar | 2401730185 |
-| Mishti Jain | 2401730162 |
-| Palak Kohli | 2401730264 |
-| Azhar Ali | 2401730134 |
-
 ---
 
 ## 🗂️ Project Structure
@@ -172,13 +158,6 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-### Access the App
-
-Open your browser and navigate to:
-```
-http://127.0.0.1:8000/
-```
-
 ---
 
 ## 📊 Key Features (Current & Planned)
@@ -215,25 +194,10 @@ http://127.0.0.1:8000/
 6. Demir & Yilmaz, *Changing the patient flow process using discrete-event simulation* — IJHMT, 2024. [Link](https://dergipark.org.tr/en/pub/ijhmt/issue/83822/1459872)
 7. Patel et al., *An AI-based framework for predicting ED overcrowding* — JMIR Medical Informatics, 2025. [Link](https://medinform.jmir.org/2025/1/e73960)
 
----
 
-## 🏫 Academic Details
-
-| Field | Detail |
-|-------|--------|
-| Institution | K.R Mangalam University, Gurugram – 122001 |
-| Department | Computer Science & Engineering |
-| Program | B.Tech – CSE with AI & ML Specialization (Section B) |
-| Project Type | Minor Project (Research Based) |
-| Supervisor | Dr. Ravinder Beniwal |
-| Submitted | January 2026 |
-
----
 
 ## 📄 License
 
 This project is developed for academic purposes under K.R Mangalam University. All rights reserved by the Echo Engineers team.
-
----
 
 <p align="center">Made with ❤️ by <b>Echo Engineers</b> | SMARTQUEUE © 2026</p>
