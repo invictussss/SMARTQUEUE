@@ -8,11 +8,7 @@
   <img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <b>A research-based minor project submitted to K.R Mangalam University</b><br/>
-  Department of Computer Science and Engineering (AI & ML Specialization)<br/>
-  <i>Supervised by Dr. Ravinder Beniwal | January 2026</i>
-</p>
+
 
 ---
 
